@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/bsds/main/static/css/main.36c4608a.chunk.css",
-    "main.js": "/bsds/main/static/js/main.f8eca54c.chunk.js",
-    "main.js.map": "/bsds/main/static/js/main.f8eca54c.chunk.js.map",
-    "runtime-main.js": "/bsds/main/static/js/runtime-main.f80f864f.js",
-    "runtime-main.js.map": "/bsds/main/static/js/runtime-main.f80f864f.js.map",
-    "static/js/2.00664321.chunk.js": "/bsds/main/static/js/2.00664321.chunk.js",
-    "static/js/2.00664321.chunk.js.map": "/bsds/main/static/js/2.00664321.chunk.js.map",
-    "index.html": "/bsds/main/index.html",
-    "precache-manifest.37889531fdce58b06ade141b29549027.js": "/bsds/main/precache-manifest.37889531fdce58b06ade141b29549027.js",
-    "service-worker.js": "/bsds/main/service-worker.js",
-    "static/css/main.36c4608a.chunk.css.map": "/bsds/main/static/css/main.36c4608a.chunk.css.map",
-    "static/js/2.00664321.chunk.js.LICENSE.txt": "/bsds/main/static/js/2.00664321.chunk.js.LICENSE.txt",
-    "static/media/background.mp4": "/bsds/main/static/media/background.28237aca.mp4",
-    "static/media/logo.png": "/bsds/main/static/media/logo.cc549709.png"
+    "main.css": "/bsds/static/css/main.36c4608a.chunk.css",
+    "main.js": "/bsds/static/js/main.6a8604f0.chunk.js",
+    "main.js.map": "/bsds/static/js/main.6a8604f0.chunk.js.map",
+    "runtime-main.js": "/bsds/static/js/runtime-main.aec7066e.js",
+    "runtime-main.js.map": "/bsds/static/js/runtime-main.aec7066e.js.map",
+    "static/js/2.00664321.chunk.js": "/bsds/static/js/2.00664321.chunk.js",
+    "static/js/2.00664321.chunk.js.map": "/bsds/static/js/2.00664321.chunk.js.map",
+    "index.html": "/bsds/index.html",
+    "precache-manifest.fd7c41c4ffd735ae1b30c38e8435948e.js": "/bsds/precache-manifest.fd7c41c4ffd735ae1b30c38e8435948e.js",
+    "service-worker.js": "/bsds/service-worker.js",
+    "static/css/main.36c4608a.chunk.css.map": "/bsds/static/css/main.36c4608a.chunk.css.map",
+    "static/js/2.00664321.chunk.js.LICENSE.txt": "/bsds/static/js/2.00664321.chunk.js.LICENSE.txt",
+    "static/media/background.mp4": "/bsds/static/media/background.28237aca.mp4",
+    "static/media/logo.png": "/bsds/static/media/logo.cc549709.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f80f864f.js",
+    "static/js/runtime-main.aec7066e.js",
     "static/js/2.00664321.chunk.js",
     "static/css/main.36c4608a.chunk.css",
-    "static/js/main.f8eca54c.chunk.js"
+    "static/js/main.6a8604f0.chunk.js"
   ]
 }
