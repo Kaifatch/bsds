@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/bsds/static/css/main.f0d9e95c.chunk.css",
-    "main.js": "/bsds/static/js/main.38bf01da.chunk.js",
-    "main.js.map": "/bsds/static/js/main.38bf01da.chunk.js.map",
+    "main.css": "/bsds/static/css/main.9ccaaea9.chunk.css",
+    "main.js": "/bsds/static/js/main.e66343a7.chunk.js",
+    "main.js.map": "/bsds/static/js/main.e66343a7.chunk.js.map",
     "runtime-main.js": "/bsds/static/js/runtime-main.aec7066e.js",
     "runtime-main.js.map": "/bsds/static/js/runtime-main.aec7066e.js.map",
-    "static/js/2.ac37ddc8.chunk.js": "/bsds/static/js/2.ac37ddc8.chunk.js",
-    "static/js/2.ac37ddc8.chunk.js.map": "/bsds/static/js/2.ac37ddc8.chunk.js.map",
+    "static/js/2.3efa8e1e.chunk.js": "/bsds/static/js/2.3efa8e1e.chunk.js",
+    "static/js/2.3efa8e1e.chunk.js.map": "/bsds/static/js/2.3efa8e1e.chunk.js.map",
     "index.html": "/bsds/index.html",
-    "precache-manifest.25550ee6afa06c06eedc21ca2084be61.js": "/bsds/precache-manifest.25550ee6afa06c06eedc21ca2084be61.js",
+    "precache-manifest.3074a099d9da4d94ed80d2b1c1456950.js": "/bsds/precache-manifest.3074a099d9da4d94ed80d2b1c1456950.js",
     "service-worker.js": "/bsds/service-worker.js",
-    "static/css/main.f0d9e95c.chunk.css.map": "/bsds/static/css/main.f0d9e95c.chunk.css.map",
-    "static/js/2.ac37ddc8.chunk.js.LICENSE.txt": "/bsds/static/js/2.ac37ddc8.chunk.js.LICENSE.txt",
+    "static/css/main.9ccaaea9.chunk.css.map": "/bsds/static/css/main.9ccaaea9.chunk.css.map",
+    "static/js/2.3efa8e1e.chunk.js.LICENSE.txt": "/bsds/static/js/2.3efa8e1e.chunk.js.LICENSE.txt",
     "static/media/background.mp4": "/bsds/static/media/background.28237aca.mp4",
     "static/media/logo.png": "/bsds/static/media/logo.cc549709.png"
   },
   "entrypoints": [
     "static/js/runtime-main.aec7066e.js",
-    "static/js/2.ac37ddc8.chunk.js",
-    "static/css/main.f0d9e95c.chunk.css",
-    "static/js/main.38bf01da.chunk.js"
+    "static/js/2.3efa8e1e.chunk.js",
+    "static/css/main.9ccaaea9.chunk.css",
+    "static/js/main.e66343a7.chunk.js"
   ]
 }
